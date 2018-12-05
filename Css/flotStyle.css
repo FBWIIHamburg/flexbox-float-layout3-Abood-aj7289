@@ -1,0 +1,35 @@
+.header{
+    float: left;
+    min-width: 100vw;
+    min-height: 10vh;
+    background-color: black;
+}
+.container{
+    float: left;
+    min-width: 100vw;
+    min-height: 80vh;
+}
+.artikle{
+    float: left;
+    min-width: 60vw;
+    min-height: 80vh;
+    background-color: white;
+}
+.sideDiv{
+    float: left;
+    min-width: 20vw;
+    min-height: 80vh;
+    background-color: rgb(187, 62, 62);
+}
+.aside{
+    float: left;
+    min-width: 20vw;
+    min-height: 80vh;
+    background-color: rgb(62, 187, 93);
+}
+.footer{
+    float: left;
+    min-width: 100vw;
+    min-height: 10vh;
+    background-color: black;
+}
